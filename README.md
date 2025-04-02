@@ -2,7 +2,7 @@
 <div align="center">
   <a href="[https://github.com/bambikun/TurbowarpTools]">
     <img src="extras/icons/icon128.png" alt="Logo" width="130" height="130">
-    <h1 align="center">Welcome to ScratchTools!</h1>
+    <h1 align="center">Welcome to TurbowarpTools!</h1>
   </a>
 
   <p align="center">
