@@ -18,7 +18,7 @@
   "action": {
     "default_icon": "/extras/icons/icon48.png",
     "default_popup": "/extras/popup/popup.html",
-    "default_title": "ScratchTools"
+    "default_title": "TurbowarpTools"
   },
   "icons": {
     "16": "/extras/icons/icon16.png",
